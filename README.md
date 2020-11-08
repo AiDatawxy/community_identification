@@ -31,6 +31,20 @@
 
 
 ***
+# Visualization Examples
+* [original graph](figures/network.png)
+
+* [power law of degree](figures/log_of_degree_dist.png)
+
+* [community of Modularity method](figures/modularity_adjust.png)
+
+* [community of propagation method](figures/propagation_adjust.png)
+
+* [community of louvain method](figures/louvain_adjust.png)
+
+
+
+***
 ## Reference
 <div id="data_source"></div>
 [1] Benedek Rozemberczki, and Rik Sarkar 2020. Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models. In Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM '20) (pp. 1325–1334).
